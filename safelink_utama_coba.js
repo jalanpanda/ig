@@ -21,10 +21,18 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="perangkat-pembelajaran-bahasa-smamasmk.html"}
-if(x=="2"){xxx="sedangkan-pengembangan-perangkat.html"}
-if(x=="3"){xxx="perangkat-pembelajaran-sendiri-memiliki.html"}
-if(x=="4"){xxx="perangkat-pembelajaran-bahasa-kelas-12.html"}a_to_ve[i].href="https://tipenol.blogspot.com/2022/04/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="watch-why-you-should-be-getting-more.html"}
+if(x=="2"){xxx="car-donation-charities-in-california.html"}
+if(x=="3"){xxx="how-car-donation-can-get-you-tax-credit.html"}
+if(x=="4"){xxx="mesothelioma-law-firms.html"}
+if(x=="5"){xxx="follow-10-rules-learn-how-not-to-lose.html"}
+if(x=="6"){xxx="best-way-to-sell-structured-settlement.html"}
+if(x=="7"){xxx="can-i-sell-my-structured-settlement.html"}
+if(x=="8"){xxx="selling-structured-settlement-payments.html"}
+if(x=="9"){xxx="how-to-sell-structured-insurance.html"}
+if(x=="10"){xxx="companies-that-buy-structured.html"}
+if(x=="11"){xxx="how-to-make-sure-you-can-successfully.html"}
+if(x=="12"){xxx="sell-your-structured-settlement-with.html"}a_to_ve[i].href="https://sitoole.blogspot.com/2018/06/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
